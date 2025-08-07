@@ -1,0 +1,16 @@
+event_id,date,event_name,category,description,expected_impact,region,duration_days,end_date
+1,1990-08-02,Iraq Invasion of Kuwait,Geopolitical Conflict,"Iraq invaded Kuwait, leading to Gulf War and oil supply disruption",Price Increase,Middle East,210,1991-02-28
+2,1997-07-02,Asian Financial Crisis,Economic Crisis,Financial crisis in Asia leading to reduced oil demand,Price Decrease,Asia,365,1998-07-02
+3,2001-09-11,9/11 Terrorist Attacks,Geopolitical Event,Terrorist attacks in US causing market uncertainty,Price Volatility,North America,30,2001-10-11
+4,2003-03-20,Iraq War Begins,Geopolitical Conflict,US-led invasion of Iraq disrupting oil production,Price Increase,Middle East,180,2003-09-16
+5,2008-09-15,Lehman Brothers Collapse,Economic Crisis,Global financial crisis reducing oil demand,Price Decrease,Global,365,2009-09-15
+6,2010-12-17,Arab Spring Begins,Geopolitical Unrest,Political upheaval across Middle East and North Africa,Price Increase,Middle East/North Africa,730,2012-12-16
+7,2011-03-11,Fukushima Nuclear Disaster,Natural/Industrial Disaster,Nuclear disaster affecting energy markets and demand,Price Increase,Asia,90,2011-06-09
+8,2014-11-27,OPEC Maintains Production,OPEC Policy,OPEC decides not to cut production despite falling prices,Price Decrease,Global,180,2015-05-26
+9,2016-11-30,OPEC Production Cut Agreement,OPEC Policy,OPEC agrees to cut oil production for first time since 2008,Price Increase,Global,365,2017-11-30
+10,2018-05-08,US Withdraws from Iran Nuclear Deal,Sanctions/Trade,US reimposed sanctions on Iran affecting oil exports,Price Increase,Middle East,180,2018-11-04
+11,2020-03-06,Saudi-Russia Oil Price War,OPEC Policy,Saudi Arabia and Russia failed to agree on production cuts,Price Decrease,Global,60,2020-05-05
+12,2020-03-11,COVID-19 Pandemic Declaration,Health Crisis,"WHO declares COVID-19 pandemic, massive demand destruction",Price Decrease,Global,365,2021-03-11
+13,2021-03-23,Suez Canal Blockage,Supply Chain Disruption,Ever Given ship blocks Suez Canal affecting oil transport,Price Increase,Middle East,6,2021-03-29
+14,2022-02-24,Russia Invades Ukraine,Geopolitical Conflict,Russia invasion of Ukraine leading to energy supply concerns,Price Increase,Europe/Russia,180,2022-08-23
+15,2022-03-31,IEA Strategic Reserve Release,Policy Response,IEA coordinates largest strategic petroleum reserve release,Price Decrease,Global,90,2022-06-29

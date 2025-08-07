@@ -1,0 +1,36 @@
+# Core Data Science Libraries
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# Bayesian Modeling and Statistics
+pymc
+arviz
+scipy
+statsmodels
+
+# Time Series Analysis
+pmdarima
+arch
+
+# Jupyter and Interactive Development
+jupyter
+ipykernel
+ipywidgets
+
+# Dashboard and Web Apps
+streamlit
+dash
+
+# Utilities
+requests
+beautifulsoup4
+python-dateutil==2.8.2
+openpyxl==3.1.2
+
+# Development and Code Quality
+black==23.7.0
+flake8==6.0.0
+pytest==7.4.0
