@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Node / React front-end
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Build output
+build/
+dist/
+coverage/
+
+# Development caches and misc
+.eslintcache
+.cache/
+.turbo/
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor & system files
+.vscode/
+.DS_Store
+/frontend/node_modules
